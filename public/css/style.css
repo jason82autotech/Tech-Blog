@@ -1,0 +1,48 @@
+/* Global Styles */
+* {
+    background-color: rgba(202, 200, 197, .5);
+}
+
+/* Custom Button Styles */
+.btn-custom {
+    background-color: #0067ee;
+    color: #030303;
+}
+
+.btn-custom:hover {
+    background-color: rgb(43, 160, 249);
+}
+
+/* Navigation Styles */
+nav a:hover {
+    text-decoration: none;
+    cursor: default;
+}
+
+
+/* Post Styles */
+.post-div {
+    border-bottom: 4px solid white;
+}
+
+.post-content {
+    font-size: 25px;
+}
+
+/* Delete Button Styles */
+.delete-btn {
+    background-color: orange;
+}
+
+.delete-btn:hover {
+    background-color: rgb(249, 249, 6);
+}
+
+/* Comments Styles */
+.comments-div h3 {
+    font-size: 25px;
+}
+
+.comment-content {
+    font-size: 22px;
+}
